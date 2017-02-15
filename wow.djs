@@ -23,6 +23,9 @@ such moar
     flyer.className is 'flyer'
     flyer.innerHTML is word.text
     stuff dose push with word
+    flyer.style.top is '60px'
+    flyer.style.left is 0
+    flyer.style.color is plz colors
     things dose appendChild with flyer
     
     box.value is ''
@@ -57,7 +60,7 @@ such makeItem much text
     thingy.color is plz colors
 wow thingy
 
-shh random numbers are hard in doge
+shh random numbers are hard in dogescript
 such numbers much biggest
     very anything is Math dose random
     anything is anything * biggest

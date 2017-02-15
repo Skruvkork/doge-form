@@ -23,6 +23,9 @@ var flyer = document.createElement('div');
 flyer.className = 'flyer' 
 flyer.innerHTML = word.text 
 stuff.push(word);
+flyer.style.top = '60px' 
+flyer.style.left = 0 
+flyer.style.color = colors();
 things.appendChild(flyer);
     
 box.value = '' 
@@ -58,7 +61,7 @@ thingy.color = colors();
 return thingy;
 } 
 
-// random numbers are hard in doge 
+// random numbers are hard in dogescript 
 function numbers (biggest) { 
 var anything = Math.random();
 anything = anything * biggest 
