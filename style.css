@@ -1,0 +1,13 @@
+body {
+    background: url(images/doge-27437-1920x1200.jpg);
+    background-size: cover;
+    font-family: cursive;
+    font-size: 3em;
+    overflow: hidden;
+}
+
+.flyer {
+    position: absolute;
+    transition: 4s linear;
+    text-shadow: 2px 2px 3px;
+}
