@@ -11,3 +11,11 @@ body {
     transition: 10s ease;
     text-shadow: 2px 2px 3px;
 }
+
+#saying {
+    height: 20px;
+    width: 200px;
+    padding: 0.5em;
+    font-size: 0.5em;
+    margin-left: 1em;
+}

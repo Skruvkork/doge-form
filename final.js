@@ -15,8 +15,8 @@ function moar() {
     flyer.id = word.id
     flyer.innerHTML = word.text
     stuff.push(word);
-    flyer.style.top = '60px'
-    flyer.style.left = 0
+    flyer.style.top = '70px'
+    flyer.style.left = '30px'
     flyer.style.color = colors();
     things.appendChild(flyer);
     box.value = ''
