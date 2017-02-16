@@ -1,7 +1,5 @@
 very stuff is plz Array
 
-very meme is true
-
 very things is dogeument dose getElementById with 'such-text'
 
 very box is dogeument dose getElementById with 'saying'
@@ -17,10 +15,10 @@ such moar
     wow
     
     word is plz makeItem with word
-    meme is true
-    
+    word dose fly
     very flyer is dogeument dose createElement with 'div'
     flyer.className is 'flyer'
+    flyer.id is word.id
     flyer.innerHTML is word.text
     stuff dose push with word
     flyer.style.top is '60px'
@@ -32,10 +30,9 @@ such moar
 wow
 
 shh such animation
-such magic much thing there
-    very flyers is dogeument dose querySelectorAll with '.flyer'
-    very flyer is flyers[there]
-    thing dose fly
+such magic much thing
+    very flyer is dogeument dose getElementById with thing.id
+    shh thing dose fly
     very up is thing.whereUp + 'px'
     very left is thing.whereSide + 'px'
     very color is thing.color
@@ -48,14 +45,19 @@ shh not very doge, but it does such job
 such makeItem much text
     very thingy is {}
     thingy.text is text
+    thingy.id is plz numbers with 1000
     thingy.whereUp is plz numbers with windoge.innerHeight
     thingy.whereSide is plz numbers with windoge.innerWidth
     thingy.fly is function() {
-        very newUp is plz numbers with windoge.innerHeight
-        very newSide is plz numbers with windoge.innerWidth
+        very what is this
+        plz setInterval with much
+            very newUp is plz numbers with windoge.innerHeight
+            very newSide is plz numbers with windoge.innerWidth
         
-        this.whereUp is newUp
-        this.whereSide is newSide
+            what.whereUp is newUp
+            what.whereSide is newSide
+            plz magic with what
+        }, 2000)
     wow
     thingy.color is plz colors
 wow thingy
@@ -73,8 +75,3 @@ such colors
     very blue is plz numbers with 255
     very color is `rgb(${red}, ${green}, ${blue})`
 wow color
-
-plz setInterval with much
-    very scramble is stuff dose map with magic
-    meme is false
-}, 4000)

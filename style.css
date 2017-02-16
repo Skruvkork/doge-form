@@ -8,6 +8,6 @@ body {
 
 .flyer {
     position: absolute;
-    transition: 4s linear;
+    transition: 10s ease;
     text-shadow: 2px 2px 3px;
 }
