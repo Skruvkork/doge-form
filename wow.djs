@@ -21,9 +21,8 @@ such moar
     flyer.id is word.id
     flyer.innerHTML is word.text
     stuff dose push with word
-    flyer.style.top is '60px'
-    flyer.style.left is 0
-    flyer.style.color is plz colors
+    flyer.style.top is '70px'
+    flyer.style.left is '30px'
     things dose appendChild with flyer
     
     box.value is ''
@@ -38,7 +37,7 @@ such magic much thing
     very color is thing.color
     flyer.style.top is up
     flyer.style.left is left
-    flyer.style.color is plz colors
+    flyer.style.color is color
 wow 
 
 shh not very doge, but it does such job
@@ -53,13 +52,12 @@ such makeItem much text
         plz setInterval with much
             very newUp is plz numbers with windoge.innerHeight
             very newSide is plz numbers with windoge.innerWidth
-        
-            what.whereUp is newUp
-            what.whereSide is newSide
+            what.whereUp is newUp / 2
+            what.whereSide is newSide / 2
+            what.color is plz colors
             plz magic with what
         }, 2000)
     wow
-    thingy.color is plz colors
 wow thingy
 
 shh random numbers are hard in dogescript
