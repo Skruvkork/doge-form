@@ -52,8 +52,8 @@ var what = this;
 setInterval(function () {
 var newUp = numbers(window.innerHeight);
 var newSide = numbers(window.innerWidth);
-what.whereUp = newUp / 2 
-what.whereSide = newSide / 2 
+what.whereUp = newUp
+what.whereSide = newSide 
 what.color = colors();
 magic(what);
         }, 2000)
